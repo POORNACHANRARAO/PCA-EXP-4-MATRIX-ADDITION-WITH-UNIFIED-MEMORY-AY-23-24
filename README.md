@@ -46,10 +46,6 @@ Allocate Host Memory
 22.	Reset the device using cudaDeviceReset and return from the main function.
 
 ## PROGRAM:
-
-```
-Developed By : Sriram Gopalan G
-Register No. : 212222230149
 ```
 ```
 !pip install git+https://github.com/andreinechaev/nvcc4jupyter.git
